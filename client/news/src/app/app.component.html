@@ -1,0 +1,19 @@
+<div id="container">
+    <div id = "title"><h1>אתר חדשות</h1></div>
+    <div id="preReview" class = "window">
+        <div id="report" *ngFor = "let report of News; index as i"> 
+            <app-pre-review [index] = i [title] = report.title [updated] = report.updated (setSelectedIndex)= "SetSelectReport($event)" ></app-pre-review>
+        </div>
+    </div>
+    <div id="refresh" class = "window">
+        <button id="btnRefresh" (click) =Refresh() > <span class="tooltiptext">טען נתונים מחדש</span> <p class=reload>🗘</p> </button>
+    </div>
+    <div id="full" class = "window" *ngIf= HasSelected()>
+        <button id="close" (click)= "SetSelectReport(-1)" ><p>&#10006; </p> </button>
+        <div id=fullContainer><app-report  [index] = 0></app-report></div>
+        
+        <button id= "next" *ngIf= HasNext() (click)= "Next()">לכתבה הבאה</button>       
+    </div>
+    
+   
+</div>

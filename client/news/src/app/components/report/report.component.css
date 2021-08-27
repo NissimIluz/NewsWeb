@@ -1,0 +1,29 @@
+.opend{
+    direction: rtl;
+}
+
+#title{
+    font-size: 34px;
+}
+#updated {
+    font-size: 20px;
+    direction: ltr;
+}
+#content {
+    font-size: 24px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+#link {
+    text-align: center;
+    font-size: 24px;
+    color: #c5ad12;
+    font-weight: bold
+}
+
+#link:visited:hover,#link:hover  {
+    color:#584b08;
+}
+#link:visited {
+    color: rgb(31, 77, 30);
+}
