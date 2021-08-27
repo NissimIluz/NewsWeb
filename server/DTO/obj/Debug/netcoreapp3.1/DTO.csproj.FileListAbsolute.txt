@@ -1,0 +1,9 @@
+C:\Users\eiloz\Desktop\shufersal\server\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\eiloz\Desktop\shufersal\server\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\eiloz\Desktop\shufersal\server\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\eiloz\Desktop\shufersal\server\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

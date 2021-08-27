@@ -1,0 +1,14 @@
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\GetData.deps.json
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\GetData.dll
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\GetData.pdb
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.csproj.AssemblyReference.cache
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.AssemblyInfoInputs.cache
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.AssemblyInfo.cs
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.csproj.CoreCompileInputs.cache
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.dll
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.pdb
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\eiloz\Desktop\shufersal\server\GetData\obj\Debug\netcoreapp3.1\GetData.csproj.CopyComplete
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\eiloz\Desktop\shufersal\server\GetData\bin\Debug\netcoreapp3.1\DTO.pdb
