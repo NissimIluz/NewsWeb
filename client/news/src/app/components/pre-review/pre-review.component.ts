@@ -6,7 +6,7 @@ import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
   styleUrls: ['./pre-review.component.css']
 })
 export class PreReviewComponent implements OnInit {
-  @Input() index:number | undefined
+  @Input() index:number = -1
   @Input() title : string =""
   @Input() updated : string = ""
   @Output() setSelectedIndex = new EventEmitter<any>()
